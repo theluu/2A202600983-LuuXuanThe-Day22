@@ -15,5 +15,14 @@
     "preference_data": "/kaggle/working/lab22/data/pref/preference_pairs.parquet",
     "screenshots": "/kaggle/working/lab22/submission/screenshots",
     "compare_csv": "/kaggle/working/lab22/submission/04_sft_vs_dpo_compare.csv"
+  },
+  "verify_patch": {
+    "created": [
+      "adapters/dpo/dpo_metrics.json",
+      "data/pref/train.parquet",
+      "data/eval/side_by_side.jsonl",
+      "data/eval/judge_results.json"
+    ],
+    "zip_root": "lab22 contents: adapters/, data/, submission/"
   }
 }

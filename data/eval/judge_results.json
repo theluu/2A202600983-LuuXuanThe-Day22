@@ -1,0 +1,31 @@
+{
+  "judge_model": "offline-rule-judge",
+  "summary": {
+    "total": 4,
+    "sft_dpo_wins": 4,
+    "sft_only_wins": 0,
+    "ties": 0
+  },
+  "results": [
+    {
+      "id": 0,
+      "winner": "sft_dpo",
+      "prompt": "Giải thích DPO trong 2 câu."
+    },
+    {
+      "id": 1,
+      "winner": "sft_dpo",
+      "prompt": "Nêu cách giảm OOM khi train trên T4."
+    },
+    {
+      "id": 2,
+      "winner": "sft_dpo",
+      "prompt": "So sánh SFT và DPO."
+    },
+    {
+      "id": 3,
+      "winner": "sft_dpo",
+      "prompt": "Checklist artifact Lab 22."
+    }
+  ]
+}

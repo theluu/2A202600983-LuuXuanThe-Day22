@@ -34,7 +34,7 @@ hf_cache/
 *.token
 
 # Submission bundle (raw zip dump — too large for GitHub, do not commit)
-lab22_submission.zip
+lab22_submission*.zip
 
 # Editor / OS
 .DS_Store
