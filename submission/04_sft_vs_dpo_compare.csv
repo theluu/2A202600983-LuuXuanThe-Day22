@@ -1,0 +1,31 @@
+prompt,sft_only,sft_dpo
+Giải thích DPO trong 2 câu.,"DPO là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (D","DPO là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (DPO) là một thuật ngữ trong tiếng Anh, có nghĩa là ""DPO"" (D"
+Nêu cách giảm OOM khi train trên T4.,"Để giảm OOM khi train trên T4, có thể sử dụng các phương pháp sau:
+
+1. Tăng dung lượng RAM của T4: Tăng dung lượng RAM của T4 có thể giúp giảm OOM khi train. T4 có RAM 16GB, có thể tăng lên 32GB hoặc 64GB.
+
+TAG: T4, OOM, giảm OOM, RAM, T4, RAM, T4, RAM, T4, RAM,","Để giảm OOM khi train trên T4, bạn có thể sử dụng các phương pháp sau:
+
+1. Tăng dung lượng RAM của T4: Tăng dung lượng RAM của T4 có thể giúp giảm OOM khi train. T4 có RAM 16GB, bạn có thể tăng RAM lên 32GB hoặc 64GB để giảm OOM.
+
+TAG: T4, OOM, giảm OOM, RAM, T4, RAM, T4,"
+So sánh SFT và DPO.,"SFT là một phương pháp học sâu, trong đó các lớp được học để dự đoán các giá trị tương laiomột cách chính xác nhất. DPO là một phương pháp học sâu, trong đó các lớp được học để dự đoán các giá trị tương lai một cách chính xác nhất.","SFT là một phương pháp học sâu, trong đó các lớp được học để dự đoán các giá trị tương laiomột cách chính xác nhất. DPO là một phương pháp học sâu, trong đó các lớp được học để dự đoán các giá trị tương lai một cách chính xác nhất."
+Checklist artifact Lab 22.,"1. Check if the code is working as expected.
+2. Check if the code is working as expected.
+3. Check if the code is working as expected.
+4. Check if the code is working as expected.
+5. Check if the code is working as expected.
+6. Check if the code is working as expected.
+7. Check if the code is working as expected.
+8. Check if the code is working as expected.
+9. Check if the code is working as expected.
+1","1. Check if the code is working as expected.
+2. Check if the code is working as expected.
+3. Check if the code is working as expected.
+4. Check if the code is working as expected.
+5. Check if the code is working as expected.
+6. Check if the code is working as expected.
+7. Check if the code is working as expected.
+8. Check if the code is working as expected.
+9. Check if the code is working as expected.
+1"

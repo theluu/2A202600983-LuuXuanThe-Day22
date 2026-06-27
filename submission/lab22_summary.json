@@ -1,0 +1,19 @@
+{
+  "lab": "Lab 22 - DPO/ORPO Alignment",
+  "mode": "fast rescue v2",
+  "compute_tier": "T4",
+  "base_model": "unsloth/Qwen2.5-3B-bnb-4bit",
+  "max_steps": 5,
+  "sft_rows": 50,
+  "preference_pairs": 8,
+  "sft_loss": 3.210958385467529,
+  "dpo_loss": 0.45670589804649353,
+  "dpo_trainer_completed": true,
+  "artifacts": {
+    "sft_adapter": "/kaggle/working/lab22/adapters/sft-mini",
+    "dpo_adapter": "/kaggle/working/lab22/adapters/dpo",
+    "preference_data": "/kaggle/working/lab22/data/pref/preference_pairs.parquet",
+    "screenshots": "/kaggle/working/lab22/submission/screenshots",
+    "compare_csv": "/kaggle/working/lab22/submission/04_sft_vs_dpo_compare.csv"
+  }
+}
